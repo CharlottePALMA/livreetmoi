@@ -1,0 +1,14 @@
+/*
+Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or http://ckeditor.com/license
+*/
+
+@import url("../css/bootstrap.css");
+@import url("../css/touchTouch.css");
+@import url("../css/style.css");
+
+body {
+	background-color:#FFF !important;
+	background-image:none !important;
+	padding:6px;
+}
