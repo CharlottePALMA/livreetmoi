@@ -1,0 +1,310 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #777777;
+	background-color: #FFFFFF;
+}
+.fietbas {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E0E0E0;
+}
+.fietD {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #E0E0E0;
+}
+.fietGD {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #E0E0E0;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #E0E0E0;
+}
+b {
+	font-weight: bold;
+}
+i {
+	font-style: italic;
+}
+.fietH {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #E0E0E0;
+}
+a.lienvert {
+	color: #007689;
+	text-decoration: none;
+}
+a:hover.lienvert {
+	color: #007689;
+	text-decoration: underline;
+}
+a.lienbleu {
+	color: #468DCB;
+	text-decoration: none;
+}
+a:hover.lienbleu {
+	color: #468DCB;
+	text-decoration: underline;
+}
+a.lienorange {
+	color: #FF6600;
+	text-decoration: none;
+}
+a:hover.lienorange {
+	color: #FF6600;
+	text-decoration: underline;
+}
+a.liengris {
+	color: #777777;
+	text-decoration: none;
+}
+a:hover.liengris {
+	color: #777777;
+	text-decoration: underline;
+}
+li.limenu {
+	list-style-image:  url(images/fl_right_vert.gif);
+	line-height: 18px;
+	margin-top: 0px;
+	margin-left: -12px;
+	padding-top: 0px;
+	padding-left: -12px;
+}
+input.recherche {
+	width: 120px;
+	color: #777777;
+}
+.ttorange {
+	color: #FF6600;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+.ttvert {
+	color: #6DA43A;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: bold;
+}
+.ssttgris {
+	color: #777777;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+input.smallrecherche {
+	width: 60px;
+	color: #777777;
+}
+input.mail {
+	width: 230px;
+	color: #777777;
+}
+.ttbleu {
+	color: #468DCB;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+.ttgris {
+	color: #777777;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+.fietHGD {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #E0E0E0;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #E0E0E0;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #E0E0E0;
+}
+a.lienblanc {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover.lienblanc {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.txtblanc {
+	color: #FFFFFF;
+	text-decoration: none;
+}.ttrubriques {
+	color: #D25D23;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #777777;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #777777;
+	text-decoration: underline;
+}
+.ssttorange {
+	color: #6DA43A;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+.textareabig {
+	height: 300px;
+	width: 600px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+	font-size: 11px;
+}
+.textfieldlong {
+	width: 400px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+	font-size: 11px;
+}
+.filetBD {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E0E0E0;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #E0E0E0;
+}
+.textareaemail {
+	height: 500px;
+	width: 600px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+	font-size: 11px;
+}
+.textfielmed {
+	width: 200px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+	font-size: 11px;
+}
+.txtorange {
+	color: #FF6600;
+	text-decoration: none;
+}
+input.identifiants {
+	width: 150px;
+	color: #777777;
+}
+li.livert {
+	list-style-image: url(images/fl_vert.gif);
+	line-height: 18px;
+	margin-top: 0px;
+	margin-left: -12px;
+	padding-top: 0px;
+	padding-left: -12px;
+}
+.ssttvert {
+	color: #007689;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+.txtfieldmedium {
+	width: 150px;
+}
+.txtfieldlarge {
+	width: 230px;
+}
+.txtfieldxlarge {
+	width: 500px;
+}
+
+.txtfieldsmall {
+	width: 50px;
+}.blanc {
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+/* style des éléments de la liste */
+table#matable tr{
+  cursor:move;
+}
+/* style de l'élément fantome, qui apparait losque que l'on bouge un élément */
+table#matable tr.highlight{
+  background:#f2f2f2;
+  background-color:#FF0;
+  border:1px dashed #212326;
+}
+
+.tablePanier {
+	width:100%;
+	border: solid thin #CCCCCC;
+}
+
+.tablePanier th {
+	text-align:center;
+	font-weight:bold;
+	color:#FF8401;
+	background-color:#DDDDDD;
+	padding:10px;
+}
+
+.tablePanier tfoot {
+	text-align:center;
+	font-weight:bold;
+	color:#FF8401;
+	background-color:#EEEEEE;
+	padding:10px;
+}
+.tablePanier tfoot tr {
+	height:30px;
+	border-bottom:solid thin #cccccc;
+}
+
+.tablePanier tr {
+	border-bottom:solid thin #eeeeee;
+}
+
+.tablePanier td {
+	vertical-align:middle !important;
+}
+
+
+.tableAdresse {
+	width:340px;;
+}
+
+.tableAdresse th {
+	border: solid thin #CCCCCC;
+	background-color:#DDDDDD;
+	text-align:center;
+	font-weight:bold;
+	font-size:18px;
+	color:#000000;
+	vertical-align:middle !important;
+	height:40px;
+}
+
+.tableAdresse td {
+	border: solid thin #CCCCCC;
+	background-color:#FFFFFF;
+	text-align:left;
+	vertical-align:left !important;
+	padding:20px;
+	height:100px;
+	font-size:12px;
+}
+
