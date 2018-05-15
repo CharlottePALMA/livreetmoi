@@ -1,0 +1,103 @@
+/* CSS Document */
+
+.plus {
+	color:#FFF;
+	font-size:30px;
+	border-bottom:none;
+}
+
+.plus:hover {
+	color:#312450;
+}
+
+.etoile {
+	color:#bbb;
+}
+
+#titreUser {
+	padding-top:100px;
+	margin-left:1.5em;
+	min-height:400px;
+	font-size:42px;
+	font-family: Just Another Hand;
+	line-height:75px;
+	color: #312450;
+}
+
+.ombre {
+	box-shadow: 8px 8px 12px #aaa;
+}
+
+.ombreNoire {
+	box-shadow: 4px 4px 15px #000;
+}
+
+#moi{
+	width:70%;
+}
+
+.part{
+	-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: border-color 0.2s ease;
+		-webkit-transition: border-color 0.2s ease;
+		-ms-transition: border-color 0.2s ease;
+		transition: border-color 0.2s ease;
+		background-color: transparent;
+		border: solid 1px !important;
+		border-color: #312450 !important;
+		border-radius: 1em;
+		color: #312450 !important;
+		display: inline-block;
+		font-size: 0.6em;
+		font-weight: bold;
+		letter-spacing: 0.1em;
+		outline: 0;
+		position: relative;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		white-space: nowrap;
+		margin-bottom:1em;
+}
+
+#nb1{
+		padding: 0 9.2em;
+		height: calc(3.5em + 2px);
+		line-height: 3.5em;
+}
+
+#nb2{
+		width:49%;
+		padding: 0 0.6em;
+		height: calc(5.5em + 2px);
+		line-height: 1.8em;
+		padding-top: 1em;
+}
+
+#nb3{
+		padding: 0 2em;
+		width:49%;
+		height: calc(5.5em + 2px);
+		line-height: 1.8em;
+		padding-top: 1em;
+}
+
+#nb4{
+		padding: 0 12.3em;
+		height: calc(3.5em + 2px);
+		line-height: 3.5em;
+}
+
+#nb5{
+		padding: 0 7.9em;
+		height: calc(3.5em + 2px);
+		line-height: 3.5em;
+}
+
+#recherche{
+	font-family:Just Another Hand;
+	font-size:1.5em;	
+}

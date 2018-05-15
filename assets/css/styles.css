@@ -1,0 +1,628 @@
+/* CSS Document */
+
+.st1_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st1_1:hover {
+	color: #000000;
+}
+
+
+.st1_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st1_3 {
+	font-size:30px;
+}
+
+.st2_1 {
+	color: rgba(180,220,43,1.00);
+	font-size:30px;
+}
+
+
+.st2_2 {
+	color: rgba(13,220,43,1.00);	
+	font-size:30px;
+
+}
+
+
+.st2_3 {
+	color: rgba(13,200,43,1.00);
+	font-size:30px;
+}
+
+.st2_4 {
+		font-size:30px;
+}
+
+.st3_1 {
+	color: rgba(255,105,0,1.00);
+	font-family:Amatic SC;
+	font-size:60px;
+}
+
+.st3_2 {
+	color: rgba(255,150,0,1.00);
+	font-family:Amatic SC;
+	font-size:40px;
+}
+
+.st3_3 {
+	font-size:30px;
+}
+
+.st4_1 {
+	color: rgba(0,0,0,1.00);
+	font-family:Gotham;
+	font-size:46px;
+}
+
+.st4_2 {
+	color: rgba(245,0,61,1.00) ;
+	font-family:Fontdiner Swanky;
+	font-size:43px;
+}
+
+.st4_3 {
+	font-size:30px;
+}
+
+
+.st5_1 {
+		font-family:Lobster;
+		color: rgba(0,255,36,1.00);
+		font-size:46px;
+}
+
+.st5_2 {
+		font-family:Shadows Into Light;
+		color:rgba(236,0,161,1.00);
+		font-size:46px;
+}
+
+.st5_3 {
+		font-family:Black Ops One;
+		color:rgba(3,174,236,1.00);
+		font-size:46px;
+}
+
+.st5_4 {
+		font-family:Righteous;
+		color: rgba(0,0,0,1.00);
+		font-size:46px;
+}
+
+.st5_5 {
+		color: rgba(90,201,1,1.00);
+		font-family:Dancing Script ; 
+		font-size:46px;
+}
+
+.st5_6 {
+		font-family: Consolas;
+		color: rgba(0,25,177,1.00);
+		font-size:46px;
+}
+
+.st5_7 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st5_8 {
+		font-family:"Courier New";
+		color: rgba(0,0,0,1.00);
+		font-size:46px;
+}
+
+.st5_9 {
+		color: rgba(0,248,190,1.00);
+		font-size:46px;
+}
+
+.st5_10 {
+		font-family: Cookie;
+		font-size:46px;
+}
+
+.st6_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st6_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st6_3 {
+	font-size:30px;
+}
+
+.st10_1 {
+	font-size:40px;
+	color: rgba(167,0,0,1.00); 
+	font-family:Fontdiner Swanky; 
+}
+
+.st10_2 {
+	font-size:40px;
+	color: rgba(0,255,21,1.00); 
+	font-family:Lobster ; 
+}
+
+.st10_3 {
+	font-size:40px;
+	color: rgba(137,0,189,1.00); 
+	font-family:Audiowide; 
+}
+
+.st10_4 {
+	font-size:30px;
+}
+
+.st11_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st11_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st11_3 {
+	font-size:30px;
+}
+
+.st12_1 {
+	font-size:46px;
+	color: rgba(157,228,18,1.00); 
+	font-family:Dancing Script; 
+}
+
+.st12_2 {
+	font-size:46px;
+	color: rgba(255,75,147,1.00); 
+	font-family:Poiret One; 
+}
+
+.st12_3 {
+	font-size:46px;
+	color: rgba(8,181,209,1.00); 
+	font-family:Black Ops One ; 
+}
+
+.st12_4 {
+	font-size:30px;
+}
+
+.st13_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st13_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st13_3 {
+	font-size:30px;
+}
+
+.st14_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st14_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st14_3 {
+	font-size:30px;
+}
+
+.st15_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st15_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st15_3 {
+	font-size:30px;
+}
+
+.st16_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st16_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st16_3 {
+	font-size:30px;
+}
+
+.st17_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st17_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st17_3 {
+	font-size:30px;
+}
+
+.st18_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st18_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st18_3 {
+	font-size:30px;
+}
+
+.st19_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st19_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st19_3 {
+	font-size:30px;
+}
+
+.st20_1 {
+		font-family:gotham;
+		color: rgba(136,7,154,1.00);
+		font-size:46px;
+}
+
+.st20_2 {
+		font-family:Bangers;
+		color: rgba(216,0,3,1.00);
+		font-size:46px;
+}
+
+.st20_3 {
+	font-size:30px;
+}
+
+.st21_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st21_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st21_3 {
+	font-size:30px;
+}
+
+.st22_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st22_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st22_3 {
+	font-size:30px;
+}
+
+.st23_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st23_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st23_3 {
+	font-size:30px;
+}
+
+.st24_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st24_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st24_3 {
+	font-size:30px;
+}
+
+.st25_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st25_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st25_3 {
+	font-size:30px;
+}
+
+.st26_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st26_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st26_3 {
+	font-size:30px;
+}
+
+.st27_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st27_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st27_3 {
+	font-size:30px;
+}
+
+.st28_1 {
+	color: rgba(44,63,215,1.00);
+	font-family:Just Another Hand;
+	font-size:46px;
+}
+
+.st28_2 {
+	color: rgba(227,0,176,1.00);
+	font-family: Cookie;
+	font-size:46px;
+}
+
+.st28_3 {
+	font-size:30px;
+}
+
+.st29_1 {
+	color: rgba(110,175,0,1.00) ;
+	font-family:Helvetica;
+	font-size:46px;
+}
+
+.st29_2 {
+	color: rgba(5,181,168,1.00);
+	font-family:Lobster ;
+	font-size:46px;
+}
+
+.st29_3 {
+	font-size:30px;
+}
+
+.st30_1 {
+	color: rgba(255,0,158,1.00) ;
+	font-family:Shadows Into Light;
+	font-size:46px;
+}
+
+.st30_2 {
+	color: rgba(255,118,203,1.00);
+	font-family:Shadows Into Light;
+	font-size:46px;
+}
+
+.st30_3 {
+	font-size:30px;
+}
+
+.st31_1 {
+	color: rgba(167,0,2,1.00);
+	font-family: Impact;
+	font-size:46px;
+}
+
+.st31_2 {
+	color:  rgba(29,124,37,1.00);
+	font-family:Bangers;
+	font-size:46px;
+}
+
+.st31_3 {
+	font-size:30px;
+}
+
+.st32_1 {
+	color: rgba(8,181,209,1.00); 
+	font-family:Black Ops One ; 
+	font-size:46px;
+}
+
+.st32_2 {
+	color: rgba(255,75,147,1.00); 
+	font-family:Poiret One; 
+	font-size:46px;
+}
+
+.st32_3 {
+	font-size:30px;
+}
+
+.st33_1 {
+	color: rgba(216,0,255,1.00);
+	font-family:Cookie ;
+	font-size:65px;
+}
+
+.st33_2 {
+	color: rgba(0,0,0,1.00);
+	font-family:gotham;
+	font-size:46px;
+}
+
+.st33_3 {
+	font-size:30px;
+}
+
+.st34_1 {
+	color: rgba(255,84,147,1.00);
+	font-family:Shadows Into Light ;
+	font-size:46px;
+}
+
+.st34_2 {
+	color: rgba(0,10,208,1.00);
+	font-family: "Lucida Grande";
+	font-size:46px;
+}
+
+.st34_3 {
+	color: rgba(10,217,66,1.00);
+	font-family:Dancing Script;
+	font-size:46px;
+}
+
+.st34_4 {
+	font-size:30px;
+}
+
+.st39_1 {
+	color: rgba(29,124,37,1.00);
+	font-family:Bangers;
+	font-size:46px;
+}
+
+.st39_2 {
+	color:rgba(167,0,2,1.00);
+	font-family: Impact;
+	font-size:46px;
+}
+
+.st39_3 {
+	font-size:30px;
+}
+
+
+.lien {
+	margin-right:30px;
+}
+
+.lien:hover {
+	color: #000000;
+}
+
+
+
+#intro {
+	background-image: url(../../images/fond.jpg);
+	min-height:700px;
+	vertical-align:top;
+}
+
+#titre {
+	padding-top:70px;
+	text-align:center;
+	min-height:400px;
+	font-size:40px;
+	font-family:Just Another Hand;
+}
+
+#recherche {
+	min-height:700px;
+	background-image:url(../../images/papier.jpeg);
+}
+
+#logo {
+	width:210px;
+	align-content:center;
+	margin-bottom:20px;
+}
+
+#cadreLogo {
+	width:100%;
+	text-align:center;
+	
+	
+}
